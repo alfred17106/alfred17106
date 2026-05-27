@@ -54,17 +54,6 @@ Informaticien passionné avec **7 ans d'expérience** dans l'enseignement de l'i
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Alfred's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfred17106&show_icons=true&theme=dark&title_color=c9a84c&icon_color=4ecdc4&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfred17106&layout=compact&theme=dark&title_color=c9a84c&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
----
 
 <div align="center">
 
